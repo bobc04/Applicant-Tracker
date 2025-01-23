@@ -1,8 +1,8 @@
 export default function Resume() {
     const proficiencies = {
-      'Front-end': ['YOUR_FRONTEND_SKILLS_HERE'],
-      'Back-end': ['YOUR_BACKEND_SKILLS_HERE'],
-      'Tools': ['YOUR_DEVELOPMENT_TOOLS_HERE']
+      'Front-end': ['HTML5, CSS3, JavaScript, Angular, jQuery, and React'],
+      'Back-end': ['Python, JavaScript, Node.js, and Express'],
+      'Tools': ['Postman, Insomnia, Azure, AWS, and Docker']
     };
   
     return (
@@ -10,8 +10,7 @@ export default function Resume() {
         <h2 className="text-3xl font-bold mb-8">Resume</h2>
         
         <div className="mb-6">
-          <a
-            href="PATH_TO_YOUR_RESUME_PDF"
+          <a href="https://cvcompiler.com/entry-level-web-developer-resume-examples"
             download
             className="inline-block bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600"
           >

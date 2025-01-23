@@ -1,19 +1,17 @@
 export default function Footer() {
     const socialLinks = [
       {
-        name: 'GitHub',
-        url: 'YOUR_GITHUB_PROFILE_URL',
-        icon: 'github'
+        name: 'Rick\'sGitHub_',
+        url: 'https://github.com',
       },
+      
       {
-        name: 'LinkedIn',
-        url: 'YOUR_LINKEDIN_PROFILE_URL',
-        icon: 'linkedin'
+        name: 'Rick\'s LinkedIn_',
+        url: 'https://www.linkedin.com/?trk=guest_homepage-basic_nav-header-logo',
       },
       {
         name: 'Stack Overflow',
-        url: 'YOUR_STACKOVERFLOW_PROFILE_URL',
-        icon: 'stack-overflow'
+        url: 'https://stackoverflow.com',
       }
     ];
   
