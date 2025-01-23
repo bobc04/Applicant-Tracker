@@ -2,9 +2,9 @@ export default function Portfolio() {
     const projects = [
         {
             title: 'PROJECT_1_Flux_Capacitor',
-            image: 'PATH_TO_PROJECT_1_IMAGE',
+            image: 'https://doyouremember.com/wp-content/uploads/2018/05/flux-capacitor.jpg',
             deployed: 'https://doyouremember.com/wp-content/uploads/2018/05/flux-capacitor.jpg',
-            github: 'URL_TO_PROJECT_1_GITHUB_REPO'
+            github: 'https://doyouremember.com/wp-content/uploads/2018/05/flux-capacitor.jpg'
         },
         {
             title: 'PROJECT_2_TITLE',
