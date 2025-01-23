@@ -7,35 +7,35 @@ export default function Portfolio() {
             github: 'https://github.com/flux-capacitor/flux-capacitor'
         },
         {
-            title: 'PROJECT_2_TITLE',
-            image: 'PATH_TO_PROJECT_2_IMAGE',
-            deployed: 'URL_TO_DEPLOYED_PROJECT_2',
-            github: 'URL_TO_PROJECT_2_GITHUB_REPO'
+            title: 'PROJECT_2_Infinity_Stones',
+            image: 'https://i.pinimg.com/736x/75/c0/7f/75c07f1424e644cc47cea61861608d89.jpg',
+            deployed: 'https://i.pinimg.com/736x/75/c0/7f/75c07f1424e644cc47cea61861608d89.jpg',
+            github: 'https://github.com/topics/infinity-stones'
         },
         // ADD 4 MORE PROJECT OBJECTS FOLLOWING THE SAME STRUCTURE
         {
-            title: 'PROJECT_3_TITLE',
-            image: 'PATH_TO_PROJECT_1_IMAGE',
-            deployed: 'URL_TO_DEPLOYED_PROJECT_1',
-            github: 'URL_TO_PROJECT_1_GITHUB_REPO'
+            title: 'PROJECT_3_Vibranium',
+            image: 'https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/aa/AAoU_Vibranium_Concept.png/revision/latest?cb=20161227225416',
+            deployed: 'https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/a/aa/AAoU_Vibranium_Concept.png/revision/latest?cb=20161227225416',
+            github: 'https://github.com/sarathm09/vibranium'
         },
         {
-            title: 'PROJECT_4_TITLE',
-            image: 'PATH_TO_PROJECT_1_IMAGE',
-            deployed: 'URL_TO_DEPLOYED_PROJECT_1',
-            github: 'URL_TO_PROJECT_1_GITHUB_REPO'
+            title: 'PROJECT_4_Silly_Putty',
+            image: 'https://4.bp.blogspot.com/-8bx9s-qt_AM/UBArTBu8k4I/AAAAAAAAAGQ/X6zPQ5URBdA/s1600/putty.JPG',
+            deployed: 'https://4.bp.blogspot.com/-8bx9s-qt_AM/UBArTBu8k4I/AAAAAAAAAGQ/X6zPQ5URBdA/s1600/putty.JPG',
+            github: 'https://github.com/alidursen/silly-putty'
         },
         {
-            title: 'PROJECT_5_TITLE',
-            image: 'PATH_TO_PROJECT_1_IMAGE',
-            deployed: 'URL_TO_DEPLOYED_PROJECT_1',
-            github: 'URL_TO_PROJECT_1_GITHUB_REPO'
+            title: 'PROJECT_5_Men_Who_Stare_at_Goats',
+            image: 'https://archeravenue.net/wp-content/uploads/2019/09/menstaregoats.jpg',
+            deployed: 'https://archeravenue.net/wp-content/uploads/2019/09/menstaregoats.jpg',
+            github: 'https://github.com/glamp/sample-moniker-documents/blob/master/movies/men_who_stare_at_goats%2C_the.txt'
         },
         {
-            title: 'PROJECT_6_TITLE',
-            image: 'PATH_TO_PROJECT_1_IMAGE',
-            deployed: 'URL_TO_DEPLOYED_PROJECT_1',
-            github: 'URL_TO_PROJECT_1_GITHUB_REPO'
+            title: 'PROJECT_6_MK_Ultra',
+            image: 'https://allthatsinteresting.com/wordpress/wp-content/uploads/2017/10/lsd-adminster.jpg',
+            deployed: 'https://allthatsinteresting.com/wordpress/wp-content/uploads/2017/10/lsd-adminster.jpg',
+            github: 'https://github.com/corolla-johnson/mkultra'
         },
     ];
     return (
