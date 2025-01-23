@@ -4,7 +4,7 @@ export default function Portfolio() {
             title: 'PROJECT_1_Flux_Capacitor',
             image: 'https://doyouremember.com/wp-content/uploads/2018/05/flux-capacitor.jpg',
             deployed: 'https://doyouremember.com/wp-content/uploads/2018/05/flux-capacitor.jpg',
-            github: 'https://doyouremember.com/wp-content/uploads/2018/05/flux-capacitor.jpg'
+            github: 'https://github.com/flux-capacitor/flux-capacitor'
         },
         {
             title: 'PROJECT_2_TITLE',
